@@ -9,7 +9,7 @@ import { cartUiActions } from '../../store/shopping-cart/cartUiSlice';
 const nav_links = [
     {
         display: 'Home',
-        path: '/home'
+        path: '/'
     },
     {
         display: 'Foods',
